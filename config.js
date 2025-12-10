@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbUri : "mongodb+srv://kamadotanjito45_db_user:Rajesh@discord.nbmmiej.mongodb.net/?retryWrites=true&w=majority",
   spotifyClientId : "d92baed9605a45a39ed7c2a2d960b1c1",
   spotifyClientSecret : "e9b29f6739de4315bc03b6d8a8e93b03",
   setupFilePath: './commands/setup.json',
@@ -22,10 +22,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlceYT",
-      password: "glace",
-      host: "us-01.strixnodes.com",
-      port: 8003,
+      name: "Sakura",
+      password: "Sakura",
+      host: "ca-lavalink.aiko-project.xyz",
+      port: 2333,
       secure: false
     }
   ]
